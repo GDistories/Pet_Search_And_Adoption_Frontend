@@ -1,0 +1,212 @@
+button:
+  about: About
+  back: Back
+  go: GO
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+  start: GET STARTED
+  more_info: MORE INFO
+  refresh: Refresh
+  edit: Edit
+  delete: Delete
+  create: Create
+
+intro:
+  desc: Opinionated Vite Starter Template
+  dynamic-route: Demo of dynamic route
+  hi: Hi, {name}!
+  aka: Also known as
+  whats-your-name: What's your name?
+not-found: Not found
+
+error: Error
+success: Success
+
+nav:
+  home: Home
+  lost_pet_search: Pet Search
+  stray_pet_adoption: Pet Adoption
+  find_pet_owner: Find Owner
+  shelter: Shelter Admin
+  admin: Admin
+  login: Login
+  register: Register
+  profile: Profile
+  logout: Logout
+
+web-title: Pet Search and Adoption
+
+login:
+  login_btn: Login
+  register_btn: Register
+  role: Role
+  role_admin: Admin
+  role_shelter: Shelter
+  role_user: User
+  username: Username
+  password: Password
+  password_check: Password Check
+  email: Email
+  email_code: Email Code
+  register_code: Register Code
+  username_text: Please Type Username
+  password_text: Please Type Password
+  email_text: Please Type Email
+  email_right_text: Please Type Right Email
+  code_text: Please Type Code
+  submit: Submit
+  verify: Send Code
+  already_send: Already Send Code To Email
+  error: Password Wrong
+  email_code_error: Email Code Error
+  register_code_error: RegisterCode Error
+  r_success: Register Success ,Complete Info
+  pass_wrong: Old Password Wrong
+  password_forgot: Forgot password?
+  reset_password: Reset Password
+
+filter:
+  filter: Filter
+  search: Search
+  add_find: Add Find
+  add_search: Add Search
+  sex: Sex
+  color: Color
+  breed: Breed
+  size: Size
+  startAge: Min Age
+  endAge: Max Age
+  startWeight: Min Weight
+  endWeight: Max Weight
+  province: Province
+  city: City
+  area: Area
+  age: Age
+  status: Status
+  age_min_message: Enter Min Age
+  age_max_message: Enter Max Age
+  weight_min_message: Enter Min Weight
+  weight_max_message: Enter Max Weight
+  date: Date Range
+  start_date: Start date
+  end_date: End date
+
+search:
+  province: Province
+  city: City
+  area: Area
+  type: Operation
+  shelter: Shelter
+
+index:
+  title1: Get a BFF
+  title2: Now and Forever
+  hot: Featured Pets
+  data: As For Today We Have
+  totalPetSearchNum: Pet Search Records
+  totalPetFoundNum: Pet Found Records
+  totalPetAdoptingNum: Pet Adopting Records
+pet:
+  nickname: nickname
+  name: Name
+  breed: Breeds
+  color: Colors
+  age: Age
+  gender: Gender
+  sex: Sex
+  contact: Contact
+  size: Size
+  weight: Weight
+  petIdNum: PetIdNum
+  feature: Feature
+  picture: Picture
+  isFound: isFound
+  status: Operation
+  status_0: Take home
+  status_1: To Shelter
+  nickname_message: Enter Nickname
+  weight_message: Enter Weight
+  age_message: Enter Age
+  petIdNum_message: Enter PetIdNum
+  feature_message: Enter Feature
+  createTime: Create Time
+  operation: Operation
+
+shelter:
+  claime_title: Pets to be claimed
+  adopt_title: Pets to be adopted
+  address: Address
+  contact: Contact
+  phone: Phone
+
+profile:
+  profile: Base Profile
+  pets: My Pets
+  change: Change Profile
+  password: Change Password
+
+confirm:
+  confirm: Confirm
+  reset: Reset
+  cancel: Cancel
+  confirm_del_text: Are you sure to delete this?
+
+file:
+  upload: Upload File
+  tip: File size cannot exceed 20MB
+  title: Warning
+  remove: Are you sure to remove the file?
+
+my:
+  my_find: My Find
+  my_search: My Search
+
+user:
+  phone: Phone
+  gender: Gender
+  firstName: First Name
+  lastName: Last Name
+  dob: Birthday
+  description: Description
+  shelterName: Shelter Name
+  location: Location
+  address: Address
+  photo: Photo
+
+password:
+  old_password: Old Password
+  new_password: New Password
+  check_password: Check Password
+  new_password_text: Please Type New Password
+  check_password_text: Please Type Check Password
+
+res:
+  success: Success
+  error: Error
+
+admin:
+  find_manage: Found manage
+  search_manage: Search manage
+  adoption_manage: Adoption manage
+  user_manage: User manage
+  shelter_manage: Shelter manage
+  status_0: Not been adopted
+  status_1: Has been adopted
+
+select: Please Select
+
+rules:
+  nickname: Please input nickname
+  sex: Please select sex
+  status: Please select status
+  breed: Please select breed
+  color: Please select color
+  size: Please select size
+  age: Please input age
+  weight: Please input weight
+  isFound: Please select found status
+  countyId: Please select city
+  number: Please input right number
+  age_number: Please input right age
+  weight_number: Please input right weight

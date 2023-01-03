@@ -1,0 +1,206 @@
+button:
+  about: 关于
+  back: 返回
+  go: 确定
+  home: 首页
+  toggle_dark: 切换深色模式
+  toggle_langs: 切换语言
+  start: 开始吧
+  more_info: 更多信息
+  refresh: 换一批
+  create: 添加
+  edit: 编辑
+  delete: 删除
+intro:
+  desc: 固执己见的 Vite 项目模板
+  dynamic-route: 动态路由演示
+  hi: 你好，{name}
+  aka: 也叫
+  whats-your-name: 输入你的名字
+not-found: 未找到页面
+
+error: 出错了
+success: 操作成功
+
+nav:
+  home: 首页
+  lost_pet_search: 寻宠
+  stray_pet_adoption: 领养
+  find_pet_owner: 招领
+  shelter: 领养所管理
+  admin: 管理员
+  login: 登录
+  register: 注册
+  profile: 个人
+  logout: 退出
+
+web-title: 宠物搜索与领养
+
+login:
+  login_btn: 登录
+  register_btn: 注册
+  role: 角色
+  role_admin: 管理员
+  role_shelter: 领养所管理员
+  role_user: 普通用户
+  username: 用户名
+  password: 密码
+  password_check: 密码确认
+  email: 邮箱
+  email_code: 邮箱验证码
+  register_code: 注册码
+  username_text: 请输入用户名
+  password_text: 请输入密码
+  email_text: 请输入邮箱
+  email_right_text: 请输入正确的邮箱
+  code_text: 请输入验证码
+  submit: 确定
+  verify: 发送验证码
+  already_send: 已发送验证码至邮箱
+  error: 密码错误
+  email_code_error: 邮箱验证码错误
+  register_code_error: 注册码错误
+  r_success: 注册成功，完善信息
+  pass_wrong: 原密码错误
+  password_forgot: 忘记密码？
+  reset_password: 密码重置
+filter:
+  filter: 筛选
+  search: 搜索
+  add_find: 发布招领
+  add_search: 发布寻宠
+  sex: 性别
+  color: 颜色
+  breed: 品种
+  size: 大小
+  startAge: 最小年龄
+  endAge: 最大年龄
+  age: 年龄
+  startWeight: 最小体重
+  endWeight: 最大体重
+  city: 城市
+  status: 状态
+  age_min_message: 请输入最小年龄
+  age_max_message: 请输入最大年龄
+  weight_min_message: 请输入最小体重
+  weight_max_message: 请输入最大体重
+  date: 时间范围
+  start_date: 开始时间
+  end_date: 结束时间
+
+search:
+  province: 省份
+  city: 市级
+  area: 区域
+  type: 方式
+  shelter: 领养所
+
+index:
+  title1: 获得一个最好的伙伴
+  title2: 现在和将来
+  hot: 热门宠物
+  data: 截至目前，我们拥有
+  totalPetSearchNum: 寻宠记录
+  totalPetFoundNum: 招领记录
+  totalPetAdoptingNum: 领养记录
+pet:
+  name: 名字
+  nickname: 昵称
+  breed: 品种
+  color: 颜色
+  age: 年龄
+  gender: 性别
+  sex: 性别
+  contact: 联系方式
+  size: 大小
+  weight: 体重
+  petIdNum: 编号
+  feature: 特征
+  picture: 照片
+  isFound: 是否找到
+  status: 处理方式
+  status_0: 带回家
+  status_1: 送至收养所
+  nickname_message: 请输入昵称
+  weight_message: 请输入体重
+  age_message: 请输入年龄
+  petIdNum_message: 请输入编号
+  feature_message: 请输入特征
+  createTime: 创建时间
+  operation: 操作
+
+shelter:
+  claime_title: 待招领
+  adopt_title: 待领养
+  address: 地址
+  contact: 联系方式
+  phone: 手机
+
+profile:
+  profile: 基本信息
+  pets: 我的宠物
+  change: 修改信息
+  password: 修改密码
+
+confirm:
+  confirm: 确定
+  reset: 重置
+  cancel: 取消
+  confirm_del_text: 确认删除？
+
+file:
+  upload: 上传文件
+  tip: 文件大小不能超过20MB
+  title: 警告
+  remove: 确定移除该文件吗？
+my:
+  my_find: 我的发现
+  my_search: 我的寻宠
+
+user:
+  phone: 手机
+  gender: 性别
+  firstName: 名字
+  lastName: 姓氏
+  address: 地址
+  dob: 生日
+  description: 描述
+  shelterName: 领养所名称
+  location: 定位
+  photo: 头像
+
+password:
+  old_password: 旧密码
+  new_password: 新密码
+  check_password: 密码确认
+  new_password_text: 请输入新密码
+  check_password_text: 请输入密码确认
+
+res:
+  success: 操作成功
+  error: 操作失败
+admin:
+  find_manage: 招领管理
+  search_manage: 寻宠管理
+  adoption_manage: 领养管理
+  user_manage: 用户管理
+  shelter_manage: 机构管理
+  status_0: 标记为被领养
+  status_1: 标记为未被领养
+
+select: 请选择
+
+rules:
+  nickname: 请输入昵称
+  sex: 请选择性别
+  status: 请选择状态
+  breed: 请选择品种
+  color: 请选择颜色
+  size: 请选择大小
+  age: 请输入年龄
+  weight: 请输入体重
+  isFound: 请选择失踪状态
+  countyId: 请选择城市
+  number: 请输入正确的数字
+  age_number: 请输入正确的年龄
+  weight_number: 请输入正确的体重
